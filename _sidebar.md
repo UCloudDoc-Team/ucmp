@@ -1,7 +1,7 @@
 
 * [概览](/ucmp/README)
 * 产品简介
-  * [什么是UCMP](/ucmp/introduction/product_introdution.md)
+  * [什么是多云管理平台](/ucmp/introduction/product_introdution.md)
   * [核心功能](/ucmp/introduction/core_function.md)
   * [部署架构](/ucmp/introduction/architecture.md)
 * 客户案例
