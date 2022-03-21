@@ -12,6 +12,6 @@
   * [租户管理员](/ucmp/using_guide/department_admin.md)
   * [租户用户](/ucmp/using_guide/user.md)
 * 服务和保障
-  * [服务承诺](/ucmp/service/promis.md)
+  * [服务承诺](/ucmp/service/promise.md)
   * [故障级别说明](/ucmp/service/bug.md)
   * [收费说明](/ucmp/service/price_mode.md)
