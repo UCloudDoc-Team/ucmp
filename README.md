@@ -9,7 +9,7 @@ UCloud混合云多云运营管理平台（以下简称：UCMP）是UCloud基于�
 * [部署方式](/ucmp/introduction/architecture.md)
 ## 2.客户案例
 从客户场景、客户方案方面帮助您更进一步了解UCMP，并与自身业务匹配
-* [客户场景](/ucmp/customer_case/customer_problem.md)
+* [客户痛点](/ucmp/customer_case/customer_problem.md)
 * [客户案例](/ucmp/customer_case/case.md) 
 ## 3.使用指南
 从客户角色使用UCMP的场景，快速掌握不同角色的人员在UCMP中承担的工作，以及UCMP可对您带来的价值
