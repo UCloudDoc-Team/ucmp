@@ -21,7 +21,7 @@ UCloud混合云多云运营管理平台（以下简称：UCMP）是UCloud基于�
 ## 4.服务和保障
 优刻得团队将提供一套完整且完善的售后服务体系，保障客户在使用产品期间的正常运行
 * [服务承诺](/ucmp/service/promise.md)
-* [故障级别说明](/ucmp/service/bug.md)
+* [故障级别说明](/ucmp/service/problem_level.md)
 * [收费说明](/ucmp/service/price_mode.md)
 
 
