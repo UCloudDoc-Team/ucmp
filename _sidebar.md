@@ -3,7 +3,7 @@
 * 产品简介
   * [什么是UCMP](/ucmp/introduction/product_introdution.md)
   * [核心功能](/ucmp/introduction/core_function.md)
-  * [部署方式](/ucmp/introduction/architecture.md)
+  * [部署架构](/ucmp/introduction/architecture.md)
 * 客户案例
   * [客户痛点](/ucmp/customer_case/customer_problem.md)
   * [客户案例](/ucmp/customer_case/case.md)
